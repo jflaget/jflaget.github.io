@@ -1,5 +1,9 @@
 ## Welcome to GitHub Pages
 
+###360 
+This is me at the TechStart class taking the first 360 picture. It is just to show one of the first steps into the TechStart journey.
+<script src="//360.vizor.io/scripts/embed.js" data-vizorurl="https://360.vizor.io/embed/v/qq9pg" ></script>
+
 You can use the [editor on GitHub](https://github.com/jflaget/jflaget.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
